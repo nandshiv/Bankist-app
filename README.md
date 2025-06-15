@@ -37,6 +37,6 @@ A fictional online banking interface built as part of my JavaScript learning jou
 To run this locally:
 
 ```bash
-git clone https://github.com/your-username/bankist-app.git
+git clone https://github.com/nandshiv/Bankist-app.git
 cd bankist-app
 open index.html
