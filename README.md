@@ -6,6 +6,8 @@ A fictional online banking interface built as part of my JavaScript learning jou
 > I followed along, wrote the code myself, and used it as a practical way to solidify core JavaScript concepts.
 
 ---
+![Bankist App Screenshot](images/bankist.png)
+---
 
 ## 🚀 Features
 - View and sort transactions (deposits & withdrawals)
